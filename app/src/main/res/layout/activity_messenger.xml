@@ -8,7 +8,7 @@
     tools:context=".Messenger">
 
     <EditText
-        android:id="@+id/btnMessage"
+        android:id="@+id/etMsg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
