@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="what_do_you_want_to_use">What Do You Want To Use?</string>
+    <string name="stop_watch">Stop Watch</string>
+    <string name="messenger">Messenger</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+</resources>
